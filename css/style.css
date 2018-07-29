@@ -1,0 +1,12 @@
+h1{
+	text-align: center;
+	color: #efefef;
+	margin-left: 60px;
+	margin-right: 70px;
+	background-color: #b9b9b9;
+}
+canvas{
+	display: block;
+	margin: 50px auto;
+	box-shadow: -2px -2px 2px #efefef, 5px 5px #b9b9b9;
+}
